@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Shuffle, List, RotateCcw, CheckCircle, XCircle, CheckSquare, Square, Image as ImageIcon, Moon, Sun } from 'lucide-react';
-import rawQuestions from './quiz_data.json'; 
+import rawQuestions from './loool.json'; 
 
 const PhilosophyQuiz = () => {
   // ИСПРАВЛЕНИЕ: Превращаем correct_index в correct, чтобы код понимал
