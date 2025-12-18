@@ -1,0 +1,2281 @@
+[
+    {
+        "question": "1. System of norms, values and stereotypes in a cultural-historical epoch is ...:",
+        "options": [
+            "Doctrine",
+            " Outlook",
+            "Gilosoism",
+            "Materialism",
+            "Cognition"
+        ],
+        "correct_index": 1,
+        "correct_answer": ""
+    },
+    {
+        "question": "2. “Summa Theologica” is a book of...",
+        "options": [
+            "St. Thomas Aquinas",
+            "St. Augustin",
+            "Abu Nasyr al-Farabi",
+            "Ibn Sina",
+            "Ibn Rushd"
+        ],
+        "correct_index": 0,
+        "correct_answer": "St. Thomas Aquinas"
+    },
+    {
+        "question": "3. Philosophy is…",
+        "options": [
+            "One of the historical outlook types about the world, human and his place in the world",
+            "One of the historical outlook types about religious activity in the world",
+            "One of the historical outlook types about beauty in the world",
+            "One of the historical outlook types about Being in the world",
+            "One of the historical outlook types about right behavior, morality, justice in the world"
+        ],
+        "correct_index": 0,
+        "correct_answer": "One of the historical outlook types about the world, human and his place in the world"
+    },
+    {
+        "question": "4. Chinese thinker Mo Di was a founder of...:",
+        "options": [
+            "Induism",
+            "Mohism",
+            "Confucianism",
+            "Rig-Veda",
+            "Phenomenology"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Mohism"
+    },
+    {
+        "question": "5. The founder of Deconstructivism:",
+        "options": [
+            "B.Russel.",
+            "I.Kant.",
+            "M. Heidegger.",
+            "J.-P. Sartre.",
+            "J. Derrida."
+        ],
+        "correct_index": 4,
+        "correct_answer": "J. Derrida."
+    },
+    {
+        "question": "6. What are the main factors of philosophy of existentialism:",
+        "options": [
+            "Camus, Freud, Florensky",
+            "Camus, Sartre, Kierkegaard",
+            "Sartre, Spengler, Schelling B.Russel.",
+            "I.Kant, Freud, Florensky",
+            "Russel, Popper, Adler"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Camus, Sartre, Kierkegaard"
+    },
+    {
+        "question": "7. What ancient Greek philosopher believed that the main task was self-knowledge:",
+        "options": [
+            "Plato",
+            "Socrates",
+            "Aristotle",
+            "Thales",
+            "Plotinus"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Socrates"
+    },
+    {
+        "question": "8. Which direction is the 20th century was engaged in philosophy of language?",
+        "options": [
+            "Phenomenology",
+            "Pragmatism",
+            "Hermeneutics",
+            "Analytical philosophy",
+            "Ontology"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Analytical philosophy"
+    },
+    {
+        "question": "9. Who stood at the beginning of pragmatism?",
+        "options": [
+            "St.Aquinas.",
+            "Charles Sanders Peirce.",
+            "Ludwig Josef Johann Wittgenstein",
+            "Franz Brentano.",
+            "St. Albert."
+        ],
+        "correct_index": 1,
+        "correct_answer": "Charles Sanders Peirce."
+    },
+    {
+        "question": "10. “Phenomenology of Spirit” was written by…",
+        "options": [
+            "St. Albert",
+            "G.Hegel",
+            "Socrates",
+            "J. Dewey",
+            "Protagoras"
+        ],
+        "correct_index": 1,
+        "correct_answer": "G.Hegel"
+    },
+    {
+        "question": "11. Translation of word “axiology”:",
+        "options": [
+            "Study of values.",
+            "Cosmcentrism.",
+            "Love Theo",
+            "Pantheism",
+            "Love Humanity."
+        ],
+        "correct_index": 0,
+        "correct_answer": "Study of values."
+    },
+    {
+        "question": "12. A priori and A posteriori are important categories in philosophy of…",
+        "options": [
+            "E.Husserl",
+            "M.Heidegger",
+            "B.Spinoza D.Hume",
+            "D.Hume",
+            "I.Kant"
+        ],
+        "correct_index": 4,
+        "correct_answer": "I.Kant"
+    },
+    {
+        "question": "13. “There are only two substances in the beginning of the world – thinking and extended substances” (dualism) is from philosophy of…",
+        "options": [
+            "E.Kant",
+            "D.Hume",
+            "R.Descartes",
+            "J.-P.Sartre",
+            "Protagoras"
+        ],
+        "correct_index": 2,
+        "correct_answer": "R.Descartes"
+    },
+    {
+        "question": "14. How can we describe Hume’s doctrine?",
+        "options": [
+            "Demonstrative reasoning.",
+            "Moral reasoning.",
+            "Agnosticism",
+            "A gift from the gods.",
+            "Common sense"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Agnosticism"
+    },
+    {
+        "question": "15. Geocentric perspective Claudius Ptolemy …",
+        "options": [
+            "The sun is the center of the universe",
+            "God is the center of the world",
+            "The earth is the center of the universe",
+            "There is nrational ground for moral judgment",
+            "The universe does not exist"
+        ],
+        "correct_index": 2,
+        "correct_answer": "The earth is the center of the universe"
+    },
+    {
+        "question": "16. Who was the teacher of Aristotle?",
+        "options": [
+            "Protagoras",
+            "Descartes",
+            "Heraclitus",
+            "Plato",
+            "Thales"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Plato"
+    },
+    {
+        "question": "17. Aristotle was directly taught by…",
+        "options": [
+            "Protagoras",
+            "Descartes",
+            "Heraclitus",
+            "Plato",
+            "Thales"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Plato"
+    },
+    {
+        "question": "18. Theory of knowledge is called as…",
+        "options": [
+            "Cognition",
+            "Epistemology",
+            "Social philosophy",
+            "Feeling",
+            "Axiology"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Epistemology"
+    },
+    {
+        "question": "19. The object of philosophy is:",
+        "options": [
+            "Cognition process and the place of man in this world",
+            "World in whole and the place of man in this world.",
+            "Human being.",
+            "Truth, unconcealment.",
+            "Mind at whole"
+        ],
+        "correct_index": 1,
+        "correct_answer": "World in whole and the place of man in this world."
+    },
+    {
+        "question": "20. The main parts of philosophy:",
+        "options": [
+            "Ontology, epistemology, ethics, aesthetics",
+            "This world, methodology",
+            "History, methodology.",
+            "Geometry, algebra, analytics.",
+            "Economy, ecology"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Ontology, epistemology, ethics, aesthetics"
+    },
+    {
+        "question": "21. The meaning of the notion of EPISTEME in Greek philosophy:",
+        "options": [
+            "Process",
+            "Place",
+            "Knowledge",
+            "Being",
+            "Truth"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Knowledge"
+    },
+    {
+        "question": "22. The most popular representative of the Greek Hedonism was…",
+        "options": [
+            "Hegel",
+            "Democritus",
+            "Thales",
+            "Epicure",
+            "Confucius"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Epicure"
+    },
+    {
+        "question": "23. Vedanta is an Indian school of …:",
+        "options": [
+            "Existentialism direction",
+            "Postmodern direction",
+            "Freidism direction",
+            "Orthodox direction",
+            "Heterodox direction"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Orthodox direction"
+    },
+    {
+        "question": "24. Epistemology is:",
+        "options": [
+            "A study of love wisdom",
+            "A study of religion",
+            "A study of human knowledge",
+            "A study of art",
+            "A study of mathematics"
+        ],
+        "correct_index": 2,
+        "correct_answer": "A study of human knowledge"
+    },
+    {
+        "question": "25. Ethic is:",
+        "options": [
+            "A study of nature, origin and limits of human cognition",
+            "A study of wisdom",
+            "A study of morality",
+            "Branch of physics",
+            "World religion"
+        ],
+        "correct_index": 2,
+        "correct_answer": "A study of morality"
+    },
+    {
+        "question": "26. Aesthetics is:",
+        "options": [
+            "A study of nature, origin and limits of human cognition",
+            "A philosophical study of principles, moral and human behavior",
+            "A study of beauty",
+            "One of the directions of Buddhism",
+            "Philosophy as a system"
+        ],
+        "correct_index": 2,
+        "correct_answer": "A study of beauty"
+    },
+    {
+        "question": "27. Who first introduce the word “philosophy”?",
+        "options": [
+            "ZenEley",
+            "Socrates",
+            "Pythagoras",
+            "Democritus",
+            "Parmenides"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Pythagoras"
+    },
+    {
+        "question": "28. Thales postulated that the primary substance is:",
+        "options": [
+            "Water",
+            "Air",
+            "Ground",
+            "The heaven",
+            "Fire"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Water"
+    },
+    {
+        "question": "29. Anaximander defined the primary substance as:",
+        "options": [
+            "Wind",
+            "Air",
+            "Ground.",
+            "Apeiron",
+            "Fire"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Apeiron"
+    },
+    {
+        "question": "30. Anaximenes considered the primary substance supposing:",
+        "options": [
+            "Number",
+            "Air",
+            "Ground",
+            "Apeiron",
+            "Fire"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Air"
+    },
+    {
+        "question": "31. Who defined the beginning of the world (ARCHE) as fire:",
+        "options": [
+            "Parmenides",
+            "Xenon Eley",
+            "Heraclitus of Ephesus",
+            "Pythagoras",
+            "Democritus"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Heraclitus of Ephesus"
+    },
+    {
+        "question": "32. Who is the author of this statement: “It’s impossible to enter the same river twice”?",
+        "options": [
+            "Parmenides",
+            "Democritus",
+            "Xenon Eley",
+            "Pythagoras",
+            "Heraclitus of Ephesus"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Heraclitus of Ephesus"
+    },
+    {
+        "question": "33. Who said that: “Good and evil are the same oppositions” (Ancient Greek dialectic)?",
+        "options": [
+            "Heraclitus",
+            "Plato",
+            "Xenon Eley",
+            "Pythagoras",
+            "Socrates"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Heraclitus"
+    },
+    {
+        "question": "34. Who is considered as the first thinker of Renaissance?",
+        "options": [
+            "D.Alighieri",
+            "N.Machiavelli",
+            "G.Galilei",
+            "L.Valla",
+            "Cicero"
+        ],
+        "correct_index": 0,
+        "correct_answer": "D.Alighieri"
+    },
+    {
+        "question": "35. Who is the founder of Eleatic school?",
+        "options": [
+            "Parmenides",
+            "Cicero",
+            "Thales",
+            "Pythagoras",
+            "Socrates"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Parmenides"
+    },
+    {
+        "question": "36. The author of famous paradoxes (apories) is…",
+        "options": [
+            "Parmenides",
+            "Cicero",
+            "Thales",
+            "Pythagoras",
+            "Zenof Elea"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Zenof Elea"
+    },
+    {
+        "question": "37. Zeno of Elea developed paradoxes (apories) are about…",
+        "options": [
+            "Love",
+            "Absence of Motion",
+            "Kindness",
+            "Evil",
+            "God wisdom"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Absence of Motion"
+    },
+    {
+        "question": "38. Who is the author of “The Canon of Medicine”?",
+        "options": [
+            "Parmenides",
+            "Cicero",
+            "Thales",
+            "Ibn Sina",
+            "Ibn Rushd"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Ibn Sina"
+    },
+    {
+        "question": "39. Who is considered as the most famous Turkic philosopher in the medieval Arab- Muslim philosophy?",
+        "options": [
+            "Ibn Sina",
+            "Ibn Rushd",
+            "Al Farabi",
+            "Al Kindi",
+            "Al Ghazali"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Al Farabi"
+    },
+    {
+        "question": "40. The first historical type of outlook that is considered as is a system of ancient legends.",
+        "options": [
+            "Philosophy",
+            "Science",
+            "Ethics",
+            "Mythology",
+            "Theology"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Mythology"
+    },
+    {
+        "question": "41. Faith in the supernatural force(-s), which is based on a strong system of moral norms and the special organization of people, is…",
+        "options": [
+            "Religion",
+            "Ontology",
+            "Physics",
+            "Epicurianism",
+            "Substancialism"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Religion"
+    },
+    {
+        "question": "42. The Socratic main value was formulated as",
+        "options": [
+            "Virtue is religion",
+            "Virtue is arts",
+            "Virtue is knowledge",
+            "Virtue is war",
+            "Virtue is interests"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Virtue is knowledge"
+    },
+    {
+        "question": "43. The famous representative of patristic studies, author of the books “The City of God”, “Confessions”:",
+        "options": [
+            "Thomas Aquinas",
+            "Boethius",
+            "M.Heidegger",
+            "A.Kamus",
+            "St.Augustin"
+        ],
+        "correct_index": 4,
+        "correct_answer": "St.Augustin"
+    },
+    {
+        "question": "44. Apologetics, Patristic and Scholasticism are the periods of…",
+        "options": [
+            "Renaissance philosophy",
+            "Medieval philosophy",
+            "German classical philosophy",
+            "Kazakh philosophy",
+            "Ancient philosophy"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Medieval philosophy"
+    },
+    {
+        "question": "45. Eidos Urania is a concept of philosophy of...",
+        "options": [
+            "Aristotle",
+            "Pithagoras",
+            "Plato",
+            "Zenof Eley",
+            "Thales"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Plato"
+    },
+    {
+        "question": "46. Who of the labeled philosophers is a Sufist?",
+        "options": [
+            "Al-Kindi",
+            "Al-Farabi",
+            "Ibn Sina",
+            "Al-Ghazali",
+            "Ulykbek"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Al-Ghazali"
+    },
+    {
+        "question": "47. According to whom, “Freedom is conscious necessity”?",
+        "options": [
+            "Kant",
+            "Spinoza",
+            "Hegel",
+            "Shelling",
+            "Kierkegaard"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Spinoza"
+    },
+    {
+        "question": "48. The author of “Three Truths”:",
+        "options": [
+            "Kunanbayev",
+            "Altynsarin",
+            "Bekmakhanov",
+            "Seifullin",
+            "Kudaiberdiyev"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Kudaiberdiyev"
+    },
+    {
+        "question": "49. The author of “Traces of Shamanism among the Kazakhs”:",
+        "options": [
+            "Kunanbayev",
+            "Altynsarin",
+            "Ualikhanov",
+            "Seifullin",
+            "Kudaiberdiyev"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Ualikhanov"
+    },
+    {
+        "question": "50. One of the outstanding French existentialist:",
+        "options": [
+            "David Hume",
+            "Georg Hegel",
+            "Albert Camus",
+            "Francis Bacon",
+            "Martin Heidegger"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Albert Camus"
+    },
+    {
+        "question": "51. Division to Subjective spirit, Objective spirit, Absolute spirit comes from philosophy of…?",
+        "options": [
+            "Fichte",
+            "Hegel",
+            "Kant",
+            "Shelling",
+            "Marx"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Hegel"
+    },
+    {
+        "question": "52. Division to Me, not-Me, synthesis of Me and not-Me comes from philosophy of…?",
+        "options": [
+            "Fichte",
+            "Hegel",
+            "Kant",
+            "Shelling",
+            "Marx"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Fichte"
+    },
+    {
+        "question": "53. One of the main Nietzsche’s concept was called",
+        "options": [
+            "Will tlife",
+            "Will tpower",
+            "Good and Evil",
+            "The myth on religion",
+            "Being of human"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Will tpower"
+    },
+    {
+        "question": "54. The second Kant’s “Critique…” is…",
+        "options": [
+            "Critique of Pure Reason",
+            "Critique of Judgement",
+            "Critique of Practical Reason",
+            "Lectures on Ethics",
+            "Three Truths"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Critique of Practical Reason"
+    },
+    {
+        "question": "55. Hegel’s outstanding work is…",
+        "options": [
+            "“Will tpower”",
+            "“Critique of practical reason”",
+            "“Nihilism”",
+            "“Science of Logic”",
+            "“Being and time”"
+        ],
+        "correct_index": 3,
+        "correct_answer": "“Science of Logic”"
+    },
+    {
+        "question": "56. Georg Wilhelm Friedrich Hegel belongs to",
+        "options": [
+            "Philosophy of the Middle times",
+            "Philosophy of the New time",
+            "Nihilism of XVIII century",
+            "Conservatism of XVII century",
+            "German classical philosophy"
+        ],
+        "correct_index": 4,
+        "correct_answer": "German classical philosophy"
+    },
+    {
+        "question": "57. Ancient eastern philosophy developed mainly in…",
+        "options": [
+            "India and China",
+            "India and Japan",
+            "Persia and China",
+            "Egypt and China",
+            "India and Korea"
+        ],
+        "correct_index": 0,
+        "correct_answer": "India and China"
+    },
+    {
+        "question": "58. “Act only on that maxim through which you can at the same time will that become a universal law” is...",
+        "options": [
+            "the Hegel’s Categorical imperative",
+            "the Kant’s Categorical imperative",
+            "the Kant’s Hypothetical imperative",
+            "the Fichte’s Hypothetical imperative",
+            "the Hegel’s Hypothetical imperative"
+        ],
+        "correct_index": 1,
+        "correct_answer": "the Kant’s Categorical imperative"
+    },
+    {
+        "question": "59. The Sanskrit word «veda» means…",
+        "options": [
+            "Mind, cognition",
+            "Knowledge, wisdom",
+            "Aesthetics, beauty",
+            "Power, authority",
+            "Perception, contemplation"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Knowledge, wisdom"
+    },
+    {
+        "question": "60. In metaphysics, Kant claimed some cognitive situations that contain contradictory statements. Human reason, in its attempt to reach absolute truth, faces to them. Kant calls them as…",
+        "options": [
+            "Aesthetics and Beauty",
+            "God, freedom and immortality",
+            "Antinomies",
+            "Power and authority",
+            "Perception and contemplation"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Antinomies"
+    },
+    {
+        "question": "61. According to the Indian outlook, at the heart of cosmos there is an eternal substance…",
+        "options": [
+            "Aesthetics",
+            "Theology",
+            "Religion",
+            "Biology",
+            "Brahman"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Brahman"
+    },
+    {
+        "question": "62. A posteriori means…",
+        "options": [
+            "After experience",
+            "Before experience",
+            "Before Antinomies",
+            "Before authority",
+            "After contemplation"
+        ],
+        "correct_index": 0,
+        "correct_answer": "After experience"
+    },
+    {
+        "question": "63. A priori means",
+        "options": [
+            "After experience",
+            "Before experience",
+            "Before Antinomies",
+            "Before authority",
+            "After contemplation"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Before experience"
+    },
+    {
+        "question": "64. Immanuel Kant was born in…",
+        "options": [
+            "1834",
+            "1804",
+            "1724",
+            "1859",
+            "1700"
+        ],
+        "correct_index": 2,
+        "correct_answer": "1724"
+    },
+    {
+        "question": "65. The first Kant’s greatest work in metaphysical area is…",
+        "options": [
+            "“Will tpower”",
+            "“Critique of Judgement”",
+            "“The Phenomenology of Spirit”",
+            "“Critique of Pure Reason”",
+            "“Critique of Practical Reason”"
+        ],
+        "correct_index": 3,
+        "correct_answer": "“Critique of Pure Reason”"
+    },
+    {
+        "question": "66. The second Kant’s greatest critique is…",
+        "options": [
+            "“Will tpower”",
+            "“Critique of practical reason”",
+            "“The Phenomenology of Spirit”",
+            "“The Critique of Pure Reason”",
+            "“Being and time”"
+        ],
+        "correct_index": 1,
+        "correct_answer": "“Critique of practical reason”"
+    },
+    {
+        "question": "67. The third Kant’s greatest critique is…",
+        "options": [
+            "“Will tpower”",
+            "“Critique of practical reason”",
+            "“The Phenomenology of Spirit”",
+            "“The Critique of Pure Reason”",
+            "“The Critique of Judgment”"
+        ],
+        "correct_index": 4,
+        "correct_answer": "“The Critique of Judgment”"
+    },
+    {
+        "question": "68. Immanuel Kant belongs to the",
+        "options": [
+            "Philosophy of the Middle times",
+            "Philosophy of the New time",
+            "Nihilism of XVIII century",
+            "Conservatism of XVII century",
+            "German classical philosophy"
+        ],
+        "correct_index": 4,
+        "correct_answer": "German classical philosophy"
+    },
+    {
+        "question": "69. Leibniz’s main philosophical work.",
+        "options": [
+            "“Will tpower”",
+            "“Monadology”",
+            "“Critique of practical reason”",
+            "“The Phenomenology of Spirit”",
+            "“The Critique of Pure Reason”"
+        ],
+        "correct_index": 1,
+        "correct_answer": "“Monadology”"
+    },
+    {
+        "question": "70. Descartes divides the world into a metaphysical dualism of two substances:",
+        "options": [
+            "Extended and thinking",
+            "Experience and thing",
+            "Antinomies and time",
+            "Authority and belief",
+            "Contemplation and comparison"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Extended and thinking"
+    },
+    {
+        "question": "71. The famous Descartes’s formula “Cogito, ergo sum” is translated from Latin as",
+        "options": [
+            "I think, therefore, I have truth",
+            "I think, therefore, I have power",
+            "I think, therefore, I have faith",
+            "I think, therefore, I am",
+            "I think, therefore, I have values"
+        ],
+        "correct_index": 3,
+        "correct_answer": "I think, therefore, I am"
+    },
+    {
+        "question": "72. Universal law in Indian philosophy, which operates in the past, present and future, is called…",
+        "options": [
+            "Thinking",
+            "Experience",
+            "Analysis",
+            "Induction",
+            "Karma"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Karma"
+    },
+    {
+        "question": "73. Who is the author of “Discourse on Method”?",
+        "options": [
+            "Parmenides.",
+            "Descartes.",
+            "Bacon.",
+            "Anaxagoras.",
+            "Zenof Elea."
+        ],
+        "correct_index": 1,
+        "correct_answer": "Descartes."
+    },
+    {
+        "question": "74. According to Plato, everything can be divided in:",
+        "options": [
+            "Thing and idea",
+            "Matter and form",
+            "Matter and idea",
+            "Idea and form",
+            "Thing and matter"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Thing and idea"
+    },
+    {
+        "question": "75. The method that comes from common to local knowledge is…",
+        "options": [
+            "Blessedness",
+            "Deduction",
+            "Analysis",
+            "Induction",
+            "Kindness"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Deduction"
+    },
+    {
+        "question": "76. Causa Sui, according to Spinoza, is",
+        "options": [
+            "Blessedness",
+            "Knowledge of random experience",
+            "Cause of itself",
+            "Logic",
+            "Kindness"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Cause of itself"
+    },
+    {
+        "question": "77. In J.Locke’s philosophy tabula rasa is…",
+        "options": [
+            "Struggle",
+            "Knowledge of random experience",
+            "Reason",
+            "Logic",
+            "Pure table"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Pure table"
+    },
+    {
+        "question": "78. The author of “Summa Theologica”",
+        "options": [
+            "Plato",
+            "Buddha",
+            "Camus",
+            "Thomas Aquinas",
+            "St.Augustin"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Thomas Aquinas"
+    },
+    {
+        "question": "79. Samsara is…",
+        "options": [
+            "A cycle of repeated reincarnation",
+            "Word",
+            "Happiness",
+            "War",
+            "Desire"
+        ],
+        "correct_index": 0,
+        "correct_answer": "A cycle of repeated reincarnation"
+    },
+    {
+        "question": "80. Heliocentric system of the Universe was proposed by:",
+        "options": [
+            "Copernicus",
+            "Galileo",
+            "Bruno",
+            "Plato",
+            "Ptolemy"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Copernicus"
+    },
+    {
+        "question": "81. One of the main philosophic works of Baruch Spinoza:",
+        "options": [
+            "“Will tpower”",
+            "“Critique of practical reason”",
+            "“The Phenomenology of Spirit”",
+            "“Critique of Pure Reason”",
+            "“Ethics”"
+        ],
+        "correct_index": 4,
+        "correct_answer": "“Ethics”"
+    },
+    {
+        "question": "82. The title of the Great Baconian social utopia is",
+        "options": [
+            "“Will tpower”",
+            "“Critique of practical reason”",
+            "“The Phenomenology of Spirit”",
+            "“New Atlantis”",
+            "“Ethics”"
+        ],
+        "correct_index": 3,
+        "correct_answer": "“New Atlantis”"
+    },
+    {
+        "question": "83. The first Fr.Baconian idol of mind is",
+        "options": [
+            "Cave",
+            "Marketplace",
+            "Tribe",
+            "Theatre",
+            "Mind"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Tribe"
+    },
+    {
+        "question": "84. The second Fr.Baconian idol of mind is",
+        "options": [
+            "Cave",
+            "Marketplace",
+            "Tribe",
+            "Theatre",
+            "Mind"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Cave"
+    },
+    {
+        "question": "85. The third Fr.Baconian idol of mind is",
+        "options": [
+            "Cave",
+            "Marketplace",
+            "Tribe",
+            "Theatre",
+            "Mind"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Marketplace"
+    },
+    {
+        "question": "86. The fourth Fr. Baconian idol of mind is",
+        "options": [
+            "Cave",
+            "Marketplace",
+            "Tribe",
+            "Theatre",
+            "Mind"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Theatre"
+    },
+    {
+        "question": "87. The principal Baconian gnoseological work is",
+        "options": [
+            "“Either-or”",
+            "“Critique of practical reason”",
+            "“The Phenomenology of Spirit”",
+            "“Critique of Pure Reason”",
+            "“Novum Organum, New Instrument”"
+        ],
+        "correct_index": 4,
+        "correct_answer": "“Novum Organum, New Instrument”"
+    },
+    {
+        "question": "88. What Indian school was established by Prabhakara?",
+        "options": [
+            "Mimamsa",
+            "Taoism",
+            "Postmodernism",
+            "Moism",
+            "Deism"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Mimamsa"
+    },
+    {
+        "question": "89. The most famous of the cynics is:",
+        "options": [
+            "Thales",
+            "Pythagoras",
+            "Diogenus",
+            "Plato",
+            "Protagoras"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Diogenus"
+    },
+    {
+        "question": "90. An important tradition borrowed by Al-Farabi from ancient philosophy is called:",
+        "options": [
+            "Mysticism",
+            "Peripatetism",
+            "Gilosoism",
+            "Materialism",
+            "Idealism"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Peripatetism"
+    },
+    {
+        "question": "91. The doctrine about that knowledge is based on experience is:",
+        "options": [
+            "Empiricism",
+            "Rationalism",
+            "Agnosticism",
+            "Abstract general ideas",
+            "Complexity"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Empiricism"
+    },
+    {
+        "question": "92. E.Kant’s categorical imperative is about…",
+        "options": [
+            "There’s nplace like home.",
+            "The world is round.",
+            "Moral problems.",
+            "Everybody everywhere is pretty much the same.",
+            "Physical problems."
+        ],
+        "correct_index": 2,
+        "correct_answer": "Moral problems."
+    },
+    {
+        "question": "93. What schools in ancient India developed logic explanation of the world?",
+        "options": [
+            "Mimamsa",
+            "Nyaya",
+            "Sankhya",
+            "Buddhism",
+            "Vaiseshika"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Nyaya"
+    },
+    {
+        "question": "94. The famous representative of patristic studies, author of the books “The City of God”, “Confessions”:",
+        "options": [
+            "Thomas",
+            "Origen",
+            "St. Albert",
+            "St.Aquinas",
+            "St. Augustine."
+        ],
+        "correct_index": 4,
+        "correct_answer": "St. Augustine."
+    },
+    {
+        "question": "95. Who created Buddhism?",
+        "options": [
+            "Thales",
+            "Pythagoras",
+            "Democritus",
+            "Socrates",
+            "Gautama Siddhartha Shakyamuni"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Gautama Siddhartha Shakyamuni"
+    },
+    {
+        "question": "96. What school was created by Gautama Siddhartha Shakyamuni?",
+        "options": [
+            "Dialectic",
+            "Lyceum",
+            "Gymnasium",
+            "Pantheism",
+            "Buddhism"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Buddhism"
+    },
+    {
+        "question": "97. The translation of the word “philosophy”:",
+        "options": [
+            "Pantheism",
+            "Love wisdom.",
+            "Cosmcentrism.",
+            "Love Theo",
+            "Love Human"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Love wisdom."
+    },
+    {
+        "question": "98. The word “Sophist” is translated from Greek as:",
+        "options": [
+            "Wise man",
+            "Warrior",
+            "Judge",
+            "Man",
+            "Thinker"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Wise man"
+    },
+    {
+        "question": "99. The most prominent student of Plato’s Academy:",
+        "options": [
+            "Euclid",
+            "Pythagoras",
+            "Aristotle",
+            "Democritus",
+            "Protagoras"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Aristotle"
+    },
+    {
+        "question": "100. Plato founded the school of Philosophy called:",
+        "options": [
+            "Lyceum",
+            "Gymnasium",
+            "Academy",
+            "Agora",
+            "Dialectics of Athens."
+        ],
+        "correct_index": 2,
+        "correct_answer": "Academy"
+    },
+    {
+        "question": "101. What writing did Confucius write?",
+        "options": [
+            "TaTe Ching",
+            "Lun Yu, or Analects",
+            "I-Ching",
+            "Li-Ching",
+            "Shu-Ching"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Lun Yu, or Analects"
+    },
+    {
+        "question": "102. He was called «the first teacher»:",
+        "options": [
+            "Socrates",
+            "Aristotle",
+            "Plato",
+            "Diogenus",
+            "Heraclitus"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Aristotle"
+    },
+    {
+        "question": "103. The teacher of Alexander the Great was:",
+        "options": [
+            "Aristotle",
+            "Socrates",
+            "Plato",
+            "Heraclitus",
+            "Pythagoras"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Aristotle"
+    },
+    {
+        "question": "104. Mo Di created a school named as …",
+        "options": [
+            "Junta",
+            "Buddhism",
+            "Taoism",
+            "Democracy",
+            "Mohism"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Mohism"
+    },
+    {
+        "question": "105. Laozi created a school that is:",
+        "options": [
+            "Tyranny",
+            "Jainism",
+            "Taoism",
+            "Democracy",
+            "Mohism"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Taoism"
+    },
+    {
+        "question": "106. What beginning (Arche) did Heraclitus recognize?",
+        "options": [
+            "Logos",
+            "Virtue",
+            "Intelligence",
+            "Honor",
+            "Pleasure"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Logos"
+    },
+    {
+        "question": "107. What beginning did Pythagoras recognize?",
+        "options": [
+            "Numbers",
+            "Dialectical argument",
+            "Rational instruction",
+            "Learning from our mistakes",
+            "Breathing"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Numbers"
+    },
+    {
+        "question": "108. Miletus school was named after:",
+        "options": [
+            "Name of the city.",
+            "Name of philosopher",
+            "Name of founder.",
+            "Name of the river.",
+            "Name of book."
+        ],
+        "correct_index": 0,
+        "correct_answer": "Name of the city."
+    },
+    {
+        "question": "109. A teaching of Aristotle is called as…",
+        "options": [
+            "Academicism",
+            "Peripatetism",
+            "Buddhism",
+            "Atheism",
+            "Pantheism"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Peripatetism"
+    },
+    {
+        "question": "110. «Emanation» means:",
+        "options": [
+            "The process of formation of things through confluence of matter and form.",
+            "Universe “flows” from the beyond a single principle and exists eternally.",
+            "Process of cognition by recollecting the soul.",
+            "Process of developing of inference.",
+            "Process of development of the world of natural phenomena."
+        ],
+        "correct_index": 1,
+        "correct_answer": "Universe “flows” from the beyond a single principle and exists eternally."
+    },
+    {
+        "question": "111. Who of them is mostly considered as an ethnographer?",
+        "options": [
+            "Al-Biruni.",
+            "Shokan Ualikhanov",
+            "Al-Khorezmi",
+            "Abai Kunanbayev",
+            "Ybyrai Altynsarin"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Shokan Ualikhanov"
+    },
+    {
+        "question": "112. Who of them is a representative of the Milesian school?",
+        "options": [
+            "Al-Biruni.",
+            "Al-Khorezmi",
+            "Anaximander",
+            "Heraclitus",
+            "Altynsarin"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Anaximander"
+    },
+    {
+        "question": "113. Parmenides and Zeno belong to…",
+        "options": [
+            "Milesian school.",
+            "Taoism.",
+            "Eley school.",
+            "Mimamsa.",
+            "Yoga."
+        ],
+        "correct_index": 2,
+        "correct_answer": "Eley school."
+    },
+    {
+        "question": "114. Under the Renaissance human was considered to be as",
+        "options": [
+            "Man is a political creature.",
+            "Man is a thinking being.",
+            "Man is a religious being.",
+            "Human is a creator, artist, enriched microcosm.",
+            "Man is a siner."
+        ],
+        "correct_index": 3,
+        "correct_answer": "Human is a creator, artist, enriched microcosm."
+    },
+    {
+        "question": "115. He founded the Philosophy of politics in the epoch of formation of the early bourgeois relations…",
+        "options": [
+            "Mirandola",
+            "Machiavelli",
+            "Campanella",
+            "Cardinal Mazzarini",
+            "Cardinal Rischelier"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Machiavelli"
+    },
+    {
+        "question": "116. Primordial substance of the nature according to Heraclitus is:",
+        "options": [
+            "Water",
+            "Air",
+            "Fire",
+            "Earth",
+            "Wood"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Fire"
+    },
+    {
+        "question": "117. Leucippus and Democritus are of the representatives of …",
+        "options": [
+            "Milesian school.",
+            "Taoism.",
+            "Atomist school.",
+            "Mimamsa.",
+            "Eley school."
+        ],
+        "correct_index": 2,
+        "correct_answer": "Atomist school."
+    },
+    {
+        "question": "118. He was a student at the Sophists school first, and then became their opponent:",
+        "options": [
+            "Protagoras",
+            "Pythagoras",
+            "Heraclitus",
+            "Socrates",
+            "Diogenus"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Socrates"
+    },
+    {
+        "question": "119. “I know that I know nothing” was proclaimed by…",
+        "options": [
+            "Thales",
+            "Pythagorus",
+            "Democritus",
+            "Seneka",
+            "Socrates"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Socrates"
+    },
+    {
+        "question": "120. One of the main philosophical books of St. Thomas Aquinas is:",
+        "options": [
+            "Summa Theologica.",
+            "Summa of All Summas.",
+            "Summa in Defence of God.",
+            "Summa of Evidences.",
+            "Summa contra Devil."
+        ],
+        "correct_index": 0,
+        "correct_answer": "Summa Theologica."
+    },
+    {
+        "question": "121. Which of the following subjects did Descartes most admire when he was a student?",
+        "options": [
+            "Mathematics",
+            "Philosophy",
+            "Poetry",
+            "Zoology",
+            "Chemistry"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Mathematics"
+    },
+    {
+        "question": "122. A thinker who formulated 5 proofs of existence of God:",
+        "options": [
+            "Augustine",
+            "Erasmus of Rotterdam.",
+            "Thomas Aquinas.",
+            "Machiavelli",
+            "Abelyar"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Thomas Aquinas."
+    },
+    {
+        "question": "123. Myth of the Cave was developed by:",
+        "options": [
+            "Augustine",
+            "Erasmus of Rotterdam",
+            "Plato",
+            "Makiavelli",
+            "Abelyar"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Plato"
+    },
+    {
+        "question": "124. What social group did Confucius compare with state?",
+        "options": [
+            "war",
+            "community",
+            "struggle",
+            "conflict",
+            "family"
+        ],
+        "correct_index": 4,
+        "correct_answer": "family"
+    },
+    {
+        "question": "125. Which of these schools is from the heterodox direction of Ancient India?",
+        "options": [
+            "Mimamsa",
+            "Yoga",
+            "Sankhya",
+            "Buddhism",
+            "Vaiseshika"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Buddhism"
+    },
+    {
+        "question": "126. Which of these schools is from the heterodox direction of Ancient India?",
+        "options": [
+            "Mimamsa",
+            "Yoga",
+            "Sankhya",
+            "Vaiseshika",
+            "Jainism"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Jainism"
+    },
+    {
+        "question": "127. Which of these schools is from the heterodox direction of Ancient India?",
+        "options": [
+            "Mimamsa",
+            "Yoga",
+            "Sankhya",
+            "Charvaka-Lokayata",
+            "Vaiseshika"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Charvaka-Lokayata"
+    },
+    {
+        "question": "128. Title of school based by Aristotle is…",
+        "options": [
+            "Academy",
+            "Legism",
+            "Pantheism",
+            "Deism",
+            "Lyceum"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Lyceum"
+    },
+    {
+        "question": "129. Theocentrism provides that in the center of the universe is…",
+        "options": [
+            "God",
+            "Something mystical",
+            "Poetics",
+            "Human",
+            "Science"
+        ],
+        "correct_index": 0,
+        "correct_answer": "God"
+    },
+    {
+        "question": "130. Defining characteristic of the religious outlook is:",
+        "options": [
+            "Belief in art of superstitions",
+            "Belief in contemptuous attitude tscience, the denial of their validity",
+            "Belief in wisdom",
+            "Belief in the supernatural, otherworldly forces, having the opportunity tinfluence the course of world events",
+            "Belief in denial of human freedom, the belief that all actions originally defined by God"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Belief in the supernatural, otherworldly forces, having the opportunity tinfluence the course"
+    },
+    {
+        "question": "131. One of the characteristics of the Renaissance is:",
+        "options": [
+            "Atheism",
+            "Theologism",
+            "Sociocentrism",
+            "Cosmocentrism",
+            "Anthropocentrism"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Anthropocentrism"
+    },
+    {
+        "question": "132. Creationism is the idea that the world and mankind created by…",
+        "options": [
+            "God",
+            "Something mystical",
+            "Poetics",
+            "Human",
+            "Science"
+        ],
+        "correct_index": 0,
+        "correct_answer": "God"
+    },
+    {
+        "question": "133. Searching human individuality is the peculiar feature of Philosophy of...",
+        "options": [
+            "Conventialism",
+            "Life",
+            "Renaissance",
+            "Rationalism",
+            "Conformism"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Renaissance"
+    },
+    {
+        "question": "134. Outstanding philosopher of the Renaissance blamed in heresy and burnt by Inquisition",
+        "options": [
+            "Leonardda Vinci",
+            "Kusansky",
+            "L. Valla",
+            "Campanella",
+            "GiordanBruno"
+        ],
+        "correct_index": 4,
+        "correct_answer": "GiordanBruno"
+    },
+    {
+        "question": "135. Definition of outlook …",
+        "options": [
+            "system of views, evaluations, and emotions that characterize the relationship of man tthe world and to himself",
+            "system of body of knowledge possessed by people",
+            "system of reflection of human consciousness of the social relations that objectively exist in society",
+            "system of adequate system of preferences of adult personality",
+            "system of historical forms of daily mind"
+        ],
+        "correct_index": 0,
+        "correct_answer": "system of views, evaluations, and emotions that characterize the relationship of man tthe"
+    },
+    {
+        "question": "136. The idea that destinies of the world and people are determined by God is…",
+        "options": [
+            "Freedom",
+            "Desire",
+            "Canon",
+            "Providentialism",
+            "Emotions"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Providentialism"
+    },
+    {
+        "question": "137. The main category in Taoism is…",
+        "options": [
+            "Freedom",
+            "Desire",
+            "Canon",
+            "Path",
+            "Emotions"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Path"
+    },
+    {
+        "question": "138. One of the representatives of the stoics was…",
+        "options": [
+            "Epicurus",
+            "Seneca",
+            "Aristotle",
+            "Plato",
+            "Socrates"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Seneca"
+    },
+    {
+        "question": "139. Primordial Being in Indian philosophy is termed as…",
+        "options": [
+            "Atma",
+            "Caste",
+            "Karma",
+            "Samsara",
+            "Brahma"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Brahma"
+    },
+    {
+        "question": "140. An Arabic category of tawhid means…",
+        "options": [
+            "Humanism",
+            "Naturalism",
+            "Monotheism",
+            "Science",
+            "Polytheism"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Monotheism"
+    },
+    {
+        "question": "141. Who was considered to be the first philosopher of Greece, a founder of the Milesian school?",
+        "options": [
+            "Socrates",
+            "Aristotle",
+            "Cicero",
+            "Thales",
+            "Epicurus"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Thales"
+    },
+    {
+        "question": "142. Teachings of Aristotle called",
+        "options": [
+            "Peripatetism",
+            "Academicism",
+            "Buddhism",
+            "Atheism",
+            "Pantheism"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Peripatetism"
+    },
+    {
+        "question": "143. Origenes Adamantius is a philosopher of…",
+        "options": [
+            "Patristics",
+            "Scholasticism",
+            "Epistemology",
+            "Apologetics",
+            "Aesthetics"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Patristics"
+    },
+    {
+        "question": "144. The founder of social agreement (Leviathan) theory is…",
+        "options": [
+            "T. Hobbes",
+            "J. Locke",
+            "R. Descartes",
+            "D. Hume",
+            "F. Bacon"
+        ],
+        "correct_index": 0,
+        "correct_answer": "T. Hobbes"
+    },
+    {
+        "question": "145. Belief in the supernatural, otherworldly forces, having the opportunity to influence the course of world events is…",
+        "options": [
+            "Science",
+            "Religion",
+            "Denial of human freedom",
+            "Art",
+            "Wisdom"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Religion"
+    },
+    {
+        "question": "146. Who were the classical philosophers in the Ancient Greek-Roman philosophy?",
+        "options": [
+            "Machiavelli, Socrates, Plato",
+            "Socrates, Plato, Aristotle",
+            "NerClaudis, Mark Aurelius , Machiavelli",
+            "Aristotle, Machiavelli, Plato",
+            "Napoleon, NerClaudis, Marx"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Socrates, Plato, Aristotle"
+    },
+    {
+        "question": "147. Where did Socrates contribute his ideas?",
+        "options": [
+            "In the cloister, church and grave",
+            "In the streets, market place, and gymnasiums",
+            "In the house, forest, and sky",
+            "In the grave, university, and school",
+            "In the church, mosque, and synagogue"
+        ],
+        "correct_index": 1,
+        "correct_answer": "In the streets, market place, and gymnasiums"
+    },
+    {
+        "question": "148. The author of «Divine comedy»",
+        "options": [
+            "Rene Descartes",
+            "Dante Alighieri",
+            "Erasmus of Rotterdam",
+            "LorenzValla",
+            "Petrarch"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Dante Alighieri"
+    },
+    {
+        "question": "149. Who offered psychoanalytic theory in human nature?",
+        "options": [
+            "Leonardda Vinci",
+            "Nikolas of Cusa",
+            "LoranzValla",
+            "TomasCampanella",
+            "Sigmund Freud"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Sigmund Freud"
+    },
+    {
+        "question": "150. The main postulate of empiricism",
+        "options": [
+            "Knowing the world causes doubts",
+            "Reason is the main source tknow the world.",
+            "Intuition is the highest form of knowledge.",
+            "All knowledge is based on experience.",
+            "The source of knowledge is God's revelation."
+        ],
+        "correct_index": 3,
+        "correct_answer": "All knowledge is based on experience."
+    },
+    {
+        "question": "151. Under the Renaissance human was considered as:",
+        "options": [
+            "political being",
+            "reasonable being",
+            "product of the society possessing the soul",
+            "Creator, artist, rich microcosm.",
+            "Micrcosmos"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Creator, artist, rich microcosm."
+    },
+    {
+        "question": "152. Who developed a doctrine about four factors that hinder the veridical cognition of nature, which he calls idols, or “phantoms”?",
+        "options": [
+            "Francis Bacon",
+            "Martin Heidegger",
+            "Karl Marx",
+            "Plato",
+            "Albert Camus"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Francis Bacon"
+    },
+    {
+        "question": "153. Representative of the Early Modern Philosophy, who said \"I think, therefore I am\"",
+        "options": [
+            "Descartes",
+            "Locke",
+            "Bacon",
+            "Hume",
+            "Spinoza"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Descartes"
+    },
+    {
+        "question": "154. Searching human individuality is a peculiar feature of human creature can be met in Philosophy of...",
+        "options": [
+            "Conventialism",
+            "Life",
+            "Renaissance",
+            "Rationalism",
+            "Conformism"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Renaissance"
+    },
+    {
+        "question": "155. “Thus Spoke Zarathustra” is a work of …",
+        "options": [
+            "R.Descartes",
+            "F.Nietzsche",
+            "Albert Camus",
+            "Karl Marx",
+            "Martin Heidegger"
+        ],
+        "correct_index": 1,
+        "correct_answer": "F.Nietzsche"
+    },
+    {
+        "question": "156. The author of “Emile: or, On Education”, “The New Eloise”, “Social Contract”",
+        "options": [
+            "Latzu",
+            "Jean-Jacques Rousseau.",
+            "Albert Camus",
+            "Karl Marx",
+            "Martin Heidegger"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Jean-Jacques Rousseau."
+    },
+    {
+        "question": "157. Branch of philosophy that studies historical knowledge and interpretation of historical process:",
+        "options": [
+            "Philosophy of history",
+            "Logics",
+            "Ontology",
+            "History of philosophy",
+            "Epistemology"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Philosophy of history"
+    },
+    {
+        "question": "158. Shokan Ualikhanov’s work is...",
+        "options": [
+            "“On Islam in the Steppe”",
+            "“Metaphysics”",
+            "“Abay’s Path”",
+            "“Book of Words”"
+        ],
+        "correct_index": 0,
+        "correct_answer": "“On Islam in the Steppe”"
+    },
+    {
+        "question": "159. The definition of public economic formation in materialism was first developed by...",
+        "options": [
+            "Engels",
+            "Stalin",
+            "Marx",
+            "Rousseau",
+            "Lenin"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Marx"
+    },
+    {
+        "question": "160. Who is the author of a doctrine “Foundations of the Science of Knowledge” (Wissenschaftslehre)?",
+        "options": [
+            "Engels",
+            "Machiavelli",
+            "Fichte",
+            "Rousseau",
+            "Lenin"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Fichte"
+    },
+    {
+        "question": "161. Who is the author of the books “Either/or”, “Fear and Trembling”?",
+        "options": [
+            "Rousseau",
+            "Lenin",
+            "Kierkegaard",
+            "Marx",
+            "Sartre"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Kierkegaard"
+    },
+    {
+        "question": "162. Who indicated the difference between conscious and unconscious in human mind?",
+        "options": [
+            "Plato",
+            "Freud",
+            "Hume",
+            "Marx",
+            "Sartre"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Freud"
+    },
+    {
+        "question": "163. “Adam bol” is a principle cultivated by...",
+        "options": [
+            "S.Seifullin",
+            "M.Zhumabayev",
+            "B.Mailin",
+            "Y.Altynsarin",
+            "A.Kunanbayev"
+        ],
+        "correct_index": 4,
+        "correct_answer": "A.Kunanbayev"
+    },
+    {
+        "question": "164. Heliocentric system of Universe was elaborated by...",
+        "options": [
+            "Galilei",
+            "Bruno",
+            "Ptolemy",
+            "Tesla",
+            "Copernicus"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Copernicus"
+    },
+    {
+        "question": "165. Aesthetical values are:",
+        "options": [
+            "Love, friendship",
+            "Beauty, art, harmony, style",
+            "Civil rights",
+            "Freedom of word and personality",
+            "Social justice"
+        ],
+        "correct_index": 1,
+        "correct_answer": "Beauty, art, harmony, style"
+    },
+    {
+        "question": "166. Miletus school’s representative Thales thought that the beginning of the world is...",
+        "options": [
+            "Moisture, water",
+            "Apeiron",
+            "Air",
+            "Logos",
+            "Fire"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Moisture, water"
+    },
+    {
+        "question": "167. The most famous of the cynics is:",
+        "options": [
+            "Thales",
+            "Protagoras",
+            "Pythagoras",
+            "Diogenus of Sinopa",
+            "Plato."
+        ],
+        "correct_index": 3,
+        "correct_answer": "Diogenus of Sinopa"
+    },
+    {
+        "question": "168. Primordial substance of the nature according to Heraclitus is:",
+        "options": [
+            "Water",
+            "Air.",
+            "Fire.",
+            "Wood.",
+            "Earth"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Fire."
+    },
+    {
+        "question": "169. Who is the Rationalist?",
+        "options": [
+            "D.Hume",
+            "G.Leibniz",
+            "Berkeley",
+            "R.Descartes",
+            "T.Hobbes"
+        ],
+        "correct_index": 3,
+        "correct_answer": "R.Descartes"
+    },
+    {
+        "question": "170. One of the representatives of the stoics was",
+        "options": [
+            "Epicurus",
+            "Socrates",
+            "Seneca",
+            "Aristotle",
+            "Plato."
+        ],
+        "correct_index": 2,
+        "correct_answer": "Seneca"
+    },
+    {
+        "question": "171. What was the central problem of the Greek school of Philosophy of the Pre- Socratic period:",
+        "options": [
+            "The origin of man.",
+            "Problem of life and death",
+            "Acquisition of happiness and serenity",
+            "Cosmos and its origin.",
+            "Soul of the things"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Cosmos and its origin."
+    },
+    {
+        "question": "172. One of the prominent rhetor in the Roman Empire was...",
+        "options": [
+            "Thales",
+            "Pythagoras",
+            "Democritus",
+            "Socrates",
+            "Cicero"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Cicero"
+    },
+    {
+        "question": "173. How many thinkers does German classical philosophy contain?",
+        "options": [
+            "2",
+            "4",
+            "9",
+            "5",
+            "7"
+        ],
+        "correct_index": 3,
+        "correct_answer": "5"
+    },
+    {
+        "question": "174. The word \"Sophist\" is translated from Greek as:",
+        "options": [
+            "Wise man",
+            "Warrior",
+            "Judge.",
+            "Man.",
+            "Thinker."
+        ],
+        "correct_index": 0,
+        "correct_answer": "Wise man"
+    },
+    {
+        "question": "175. The school founded by Plato was called:",
+        "options": [
+            "Liceum.",
+            "Gimnasium.",
+            "Academy",
+            "Agora.",
+            "Dialectics of Athens."
+        ],
+        "correct_index": 2,
+        "correct_answer": "Academy"
+    },
+    {
+        "question": "176. In F.Nietzsche’s philosophy, human nature is divided into...",
+        "options": [
+            "Dionysian and Apollonian beginnings",
+            "Positive and negative beginnings",
+            "Human and animal beginnings",
+            "Black and white beginnings",
+            "Eastern and western beginnings"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Dionysian and Apollonian beginnings"
+    },
+    {
+        "question": "177. “God is dead” said...",
+        "options": [
+            "F.Nietzsche",
+            "Heraclitus",
+            "Plato",
+            "E.Kant",
+            "F.Hegel"
+        ],
+        "correct_index": 0,
+        "correct_answer": "F.Nietzsche"
+    },
+    {
+        "question": "178. Creationism is...",
+        "options": [
+            "Idea, in which God created everything",
+            "Idea, in which Evil created everything",
+            "Idea, in which Satan created everything",
+            "Idea, in which human himself created everything",
+            "Idea, in which nature itself created everything"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Idea, in which God created everything"
+    },
+    {
+        "question": "179. Philosophy of the Middle Ages characterized as \"school philosophy\" was called:",
+        "options": [
+            "Mysticism",
+            "Apologetics",
+            "Scholastics",
+            "Patristics",
+            "Nominalists"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Scholastics"
+    },
+    {
+        "question": "180. The author of “The Treatise of the views of the citizens of a Virtuous City” is called “the second teacher”:",
+        "options": [
+            "Al-Biruni",
+            "Al-Khorezmi",
+            "Al-Gazali",
+            "Ibn Sina",
+            "Al-Farabi"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Al-Farabi"
+    },
+    {
+        "question": "181. What philosophy was divided into Westernizers and Slavophiles?",
+        "options": [
+            "Kazakh",
+            "German classical",
+            "Greek-Roman",
+            "French",
+            "Russian"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Russian"
+    },
+    {
+        "question": "182. What is the main idea of the philosophy of V.Solovyov?",
+        "options": [
+            "The idea of Sophia - Divine wisdom",
+            "The idea of non-resistance tevil by violence",
+            "The idea of a revolutionary renewal of society",
+            "The idea of Marxist philosophy",
+            "The idea of objective idealism"
+        ],
+        "correct_index": 0,
+        "correct_answer": "The idea of Sophia - Divine wisdom"
+    },
+    {
+        "question": "183. What did Socrates, Plato and Augustine have in common?",
+        "options": [
+            "They all believed in the idea of an immortal soul",
+            "They all wanted tcreate a new vision of the world",
+            "They all believed in the category mistake concept",
+            "They all wanted tcreate a philosophy school",
+            "They all wanted tbe the prince"
+        ],
+        "correct_index": 0,
+        "correct_answer": "They all believed in the idea of an immortal soul"
+    },
+    {
+        "question": "184. Which philosopher is best known for his statement cogito ergo sum?",
+        "options": [
+            "Rene Descartes",
+            "Jean-Paul Sartre",
+            "Berkeley",
+            "Socrates",
+            "Plato"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Rene Descartes"
+    },
+    {
+        "question": "185. Scholasticism is...:",
+        "options": [
+            "Mystic ritual",
+            "Apologetic movement",
+            "Logic doctrine",
+            "European Medieval \"school philosophy\"",
+            "Epistemological study"
+        ],
+        "correct_index": 3,
+        "correct_answer": "European Medieval \"school philosophy\""
+    },
+    {
+        "question": "186. Who is considered as the first thinker of Renaissance?",
+        "options": [
+            "D.Alighieri",
+            "N.Machiavelli",
+            "G.Galilei",
+            "L.Valla",
+            "Cicero"
+        ],
+        "correct_index": 0,
+        "correct_answer": "D.Alighieri"
+    },
+    {
+        "question": "187. Who is the founder of Eleatic school?",
+        "options": [
+            "Parmenides",
+            "Cicero",
+            "Thales",
+            "Pythagoras",
+            "Socrates"
+        ],
+        "correct_index": 0,
+        "correct_answer": "Parmenides"
+    },
+    {
+        "question": "188. The author of famous paradoxes (apories) is…",
+        "options": [
+            "Parmenides",
+            "Cicero",
+            "Thales",
+            "Pythagoras",
+            "Zenof Elea"
+        ],
+        "correct_index": 4,
+        "correct_answer": "Zenof Elea"
+    },
+    {
+        "question": "189. An Arabic category of tawhid means…",
+        "options": [
+            "Humanism",
+            "Naturalism",
+            "Monotheism",
+            "Science",
+            "Polytheism"
+        ],
+        "correct_index": 2,
+        "correct_answer": "Monotheism"
+    },
+    {
+        "question": "190. Who was considered to be the first philosopher of Greece, a founder of the Milesian school?",
+        "options": [
+            "Socrates",
+            "Aristotle",
+            "Cicero",
+            "Thales",
+            "Epicurus https://oltest.ru/tests/filosofiya_i_psihologiya/filosofiya_19_20_vekov/test/?q=16"
+        ],
+        "correct_index": 3,
+        "correct_answer": "Thales"
+    }
+]
